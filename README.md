@@ -6,3 +6,4 @@ compare master with pzhao nothing.
 compare pzhao with master, changes.
 
 test 2: change local pzhao and push
+merge master, no change
